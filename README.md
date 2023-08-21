@@ -1,5 +1,5 @@
 # diskusi
 Jawaban:
 1. katalon
-2. postman
+2. selenium
 3. jmeter
