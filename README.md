@@ -1,3 +1,7 @@
 # diskusi
+Jawaban:
+1. katalon
+2. selenium
+3. jmeter
 
-Tuliskan 3 automation tools
+
